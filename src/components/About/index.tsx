@@ -12,7 +12,7 @@ const About = () => (
         Currently:
         <br />
         <br />
-        Building the next generation of payment infrastructure at <Fade><LinkStyle href="https://block.xyz">Block</LinkStyle></Fade>&nbsp;/&nbsp;<Fade><LinkStyle href="https://cash.app">Cash App</LinkStyle></Fade><br />
+        Building high scale CI/CD infrastructure at <Fade><LinkStyle href="https://block.xyz">Block</LinkStyle></Fade><br />
         <br />
         <br />
         Previously:
@@ -29,7 +29,7 @@ const About = () => (
         B.S. in Visual Arts and Mathematics <br />
         <br />
         <Fade >
-          <LinkStyle href='../../../static/images/JM-Resume.pdf'>
+          <LinkStyle href='https://attachments.are.na/41439146/7db1ee7248ab73ee98b2fd853ebf3946.pdf?1764352895'>
           Resumé
           </LinkStyle>
         </Fade>
